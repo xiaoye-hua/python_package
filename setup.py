@@ -1,9 +1,9 @@
 from setuptools import setup
 
 setup(
-    name='package'
-    , version='0.0.1'
+    name='test_package'
+    , version='0.0.2'
     , author='Hua'
-    , packages=['package']
+    , packages=['src']
     , zip_safe=False
 )
