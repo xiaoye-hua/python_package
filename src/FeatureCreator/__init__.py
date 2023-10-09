@@ -7,5 +7,5 @@
 
 class FeatureCreator:
     def __init__(self):
-        a = 3
-        c = 4
+        self.a = 3
+        self.c = 4
